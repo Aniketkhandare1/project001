@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+nav{
+    background-color:black;
+    padding: 5px 0px;
+    display: flex;
+    color: aliceblue;
+    text-align: center;
+    font-size: small;
+  
+}
+
+div img{  margin-top: 4px;
+        margin-left: 50px;
+        margin-right: 30px;
+}
+
+.vl {
+    border-left: 2px solid white;
+    height: 35px;
+    margin-top: auto;
+}
+
+ul{  margin-top: 4px;
+    display: flex;
+}
+li{list-style-type: none;
+    padding: 0px 20px;
+    margin: 0px 5px;  
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+button{font-size: smaller;
+    margin-left: 150px;
+    padding: 4px 16px;
+    background-color: rgb(170, 10, 154);
+    color: aliceblue;
+    margin-top: 4px;
+    border: none;
+    border-radius: 4px;
+}
+
+
+main{ text-align: center;
+      color: white;
+      font-stretch:ultra-expanded;
+      font-size: x-large;
+      padding-top: 80px;
+      
+}
+
+.bgimg {background-image: url(week3p2bg.png);
+     height: 600px;
+      width: 100%;
+     
+}
+
+.btn{margin-left: -10px;
+      margin-top: 30px;
+
+}
+
